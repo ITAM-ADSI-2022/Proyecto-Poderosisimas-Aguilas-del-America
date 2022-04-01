@@ -10,3 +10,8 @@ La comida llega a la hora indicada, Federico queda satisfecho con su pedido y de
 Katty fue con su asesora de tesis al ITAM para que le enseñara el avance de su tesis, esto es sumamente importante porque su asesora no suele darle mucho tiempo y no planea desperdiciar la oportunidad.
 Al terminar la reunión, Katty tiene demasiada hambre, por lo que le pregunta a su asesora por una recomendación y ella le contesta que en la aplicación de cafetería ITAM podía encontrar todo lo que busca. Katty ingresa a la aplicación y busca la comida que llegue más rápida, lo cual resulta ser tortas y procede a pedir una torta cubana. 
 A la hora de pagar, Katty recuerda que no tiene dinero en su tarjeta, pero tiene el PayPal de su pareja, por lo que decide pagar con ella. La comida llega 5 minutos antes de lo esperado y procede a degustar su torta.
+
+# Escenario 4: Sarah Luebbert
+Sarah tiene una agenda muy complicada, se la pasa todo el día en el trabajo o en el ITAM, esto ha ocasionado que sus hábitos alimenticios no sean los mejores. Debido a esto, Sarah decidió que hoy iba a comer saludable, por lo que abre la aplicación Cafetería ITAM y busca lo más saludable posible. 
+Después de 5 minutos, Sarah está indecisa entre pedir una ensalada y una pechuga asada con verduras, por lo que decide meterse a los reviews de cada platillo y se da cuenta que la porción de la pechuga es muy pequeña, lo cual la lleva a tomar la decisión de pedir la ensalada.
+A la hora del pago, la opción que mejor le conviene es el pago con tarjeta y decide utilizarla sin ningún inconveniente. La comida llega a tiempo y Sarah queda satisfecha con el servicio de la aplicación.
