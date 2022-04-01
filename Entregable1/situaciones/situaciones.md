@@ -1,0 +1,3 @@
+# Escenario #1: Martha
+Martha es una mujer muy ocupada ya que se dedica a ser la CFO de una empresa internacional y a impartir clases en el Itam. Dado que tiene que salir corriendo a la oficina despues de dar su clase, Martha abre la aplicación de cafetería Itam y hace un pedido para llevar 30 minutos antes de que finalice su clase. Como su tarjeta esta ligada a su cuenta, Martha ya solo tiene que recoger su comida cuando la aplicación la notifique de que esta lista y puede continuar tranquila con su ocupado día.
+Martha quedo muy satisfecha con lo precisa que es la aplicación a la hora de manejar tiempos de espera y se asegura de incorporar a su día a día el uso de la aplicación para su comida del día.
