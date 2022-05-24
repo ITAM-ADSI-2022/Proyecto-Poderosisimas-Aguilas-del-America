@@ -19,4 +19,4 @@ https://franriverarobles98.wixsite.com/cafe-itam-admin
 ## Algunos detalles del proyecto:
 - Los entregables 1 y 2 se encuentran en carpetas separadas para el proyecto.
 - El entregable 3 se encuentra en la sección de "Projects" de github.
-- El entregable 4 fue presentado el 20 de Mayo, y los links funcionales al proyecto se pueden encontrar [aquí](#Pagina-principal).
+- El entregable 4 fue presentado el 20 de Mayo, y los links funcionales al proyecto se pueden encontrar [aquí](#pagina-principal).
